@@ -46,26 +46,9 @@ Está permitido, **bajo tu responsabilidad**, actualizar las dependencias a vers
 
 ---
 
-
----
-
 ## **📖 ENUNCIADO GENERAL**
 
-La idea de este proyecto es construir una aplicación web a partir de la API [**countries**] en la que se pueda:
-
--  Buscar países.
--  Visualizar la información de los países.
--  Filtrarlos.
--  Ordenarlos.
--  Crear actividades turísticas.
-
-⚠️ Para las funcionalidades de filtrado y ordenamiento NO se puede utilizar los endpoints de la API externa que ya devuelven los resultados filtrados u ordenados.
-
-### **Único end-point que se puede utilizar**
-
--  [**http://localhost:5000/countries**]
-
-<br />
+La idea de este proyecto es construir una aplicación web...
 
 ---
 
@@ -79,18 +62,12 @@ La idea de este proyecto es construir una aplicación web a partir de la API [**
 
 ### **🖱 BASE DE DATOS**
 
-Deberás crear dos modelos para tu base de datos. Una será para los países y la otra será para las actividades turísticas (pueden llevar el nombre que tu quieras). La relación entre ambos modelos debe ser de muchos a muchos. A continuación te dejamos las propiedades que debe tener cada modelo. Aquellas marcadas con un asterísco son obligatorias.
+Deberás crear modelos para tu base de datos.
 
-**📍 MODELO 1 | Country**
+**📍 MODELO 1 | Propiedades**
 
 -  ID (Código de tres letras). \*
 -  Nombre. \*
--  Imagen de la bandera. \*
--  Continente. \*
--  Capital. \*
--  Subregión.
--  Área.
--  Población. \*
 
 <br />
 
