@@ -1,0 +1,7 @@
+escribimos cualquier cosa y otra cosa más
+
+Ejemplito Carlos!
+
+function laCajaDePandora(numero){
+// proximamente escribiremos codigo aqui
+}
