@@ -12,6 +12,6 @@ ejemplo luana2
 Este es mi segundo push Pierre
 nueva actualizancion piere
 ejemplo nico
-
+ejemplo 2 de nico desde mi propia rama
 si yo estoy haciendo un cambio
 luana hizo un cambio
