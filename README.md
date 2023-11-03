@@ -1,4 +1,6 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+<p align='center'>
+   <img src="https://media-dfw5-1.cdn.whatsapp.net/v/t61.24694-24/328149482_870437688036812_1144838749563911658_n.jpg?ccb=11-4&oh=01_AdQhdBvu8QukeNOSY-vr_rDTNYqmNSHECU2AVDgjDOKTcg&oe=6550FE1F&_nc_sid=e6ed6c&_nc_cat=105" alt="!Ocean's Eight" width="300px">
+</p>
 
 # **WELL HOME** | Proyecto Final
 
@@ -195,5 +197,3 @@ Ten en cuenta que en esta instancia no es obligatorio el desarrollo de testing p
 ---
 
 <br />
-
-  <img src="./countries.png" />
